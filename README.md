@@ -1,2 +1,7 @@
-# QA_Postman_Project
-Testování REST API pomocí Postmanu – CRUD, autentizace, negativní testy, validace.
+# Postman API Testing – FakeStoreAPI
+Tento projekt obsahuje:
+- CRUD operace (GET, POST, PUT, DELETE)
+- Testy správných odpovědí (status code 200, 201, 400)
+- Negativní scénáře (neplatné ID, chybějící token)
+- Validace JSON schématu
+- Automatizace přes Newman + PowerShell
